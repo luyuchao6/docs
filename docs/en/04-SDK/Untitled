@@ -1,0 +1,8 @@
+I want to make a new crate. It should be named handa-robot-tools
+
+It should depend on handa-robolog, and handa-ht-robot and @inno_maker_u20.rs 
+
+It should behave a lot like @gravity_friction_compensation.rs 
+But, in addition it should connect to an InnoMakerU20 camera, and log both motor states and the camera to the robolog. For starters, we will assume that the episode starts on the start of the executable, and ends when the control loop ends.
+
+Read the related code, and make a plan.
